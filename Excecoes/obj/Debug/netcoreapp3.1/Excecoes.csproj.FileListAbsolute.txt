@@ -1,0 +1,13 @@
+C:\ProgramasCSharp\ConceitoDeTratamentoDeExcecoes\Excecoes\Excecoes\bin\Debug\netcoreapp3.1\Excecoes.exe
+C:\ProgramasCSharp\ConceitoDeTratamentoDeExcecoes\Excecoes\Excecoes\bin\Debug\netcoreapp3.1\Excecoes.deps.json
+C:\ProgramasCSharp\ConceitoDeTratamentoDeExcecoes\Excecoes\Excecoes\bin\Debug\netcoreapp3.1\Excecoes.runtimeconfig.json
+C:\ProgramasCSharp\ConceitoDeTratamentoDeExcecoes\Excecoes\Excecoes\bin\Debug\netcoreapp3.1\Excecoes.runtimeconfig.dev.json
+C:\ProgramasCSharp\ConceitoDeTratamentoDeExcecoes\Excecoes\Excecoes\bin\Debug\netcoreapp3.1\Excecoes.dll
+C:\ProgramasCSharp\ConceitoDeTratamentoDeExcecoes\Excecoes\Excecoes\bin\Debug\netcoreapp3.1\Excecoes.pdb
+C:\ProgramasCSharp\ConceitoDeTratamentoDeExcecoes\Excecoes\Excecoes\obj\Debug\netcoreapp3.1\Excecoes.csprojAssemblyReference.cache
+C:\ProgramasCSharp\ConceitoDeTratamentoDeExcecoes\Excecoes\Excecoes\obj\Debug\netcoreapp3.1\Excecoes.AssemblyInfoInputs.cache
+C:\ProgramasCSharp\ConceitoDeTratamentoDeExcecoes\Excecoes\Excecoes\obj\Debug\netcoreapp3.1\Excecoes.AssemblyInfo.cs
+C:\ProgramasCSharp\ConceitoDeTratamentoDeExcecoes\Excecoes\Excecoes\obj\Debug\netcoreapp3.1\Excecoes.csproj.CoreCompileInputs.cache
+C:\ProgramasCSharp\ConceitoDeTratamentoDeExcecoes\Excecoes\Excecoes\obj\Debug\netcoreapp3.1\Excecoes.dll
+C:\ProgramasCSharp\ConceitoDeTratamentoDeExcecoes\Excecoes\Excecoes\obj\Debug\netcoreapp3.1\Excecoes.pdb
+C:\ProgramasCSharp\ConceitoDeTratamentoDeExcecoes\Excecoes\Excecoes\obj\Debug\netcoreapp3.1\Excecoes.genruntimeconfig.cache
